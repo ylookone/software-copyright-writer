@@ -1,4 +1,0 @@
-interface:
-  display_name: "Software Copyright Writer EN"
-  short_description: "Draft and audit Chinese software copyright materials"
-  default_prompt: "Use $software-copyright-writer-en to analyze this software project and draft its Chinese software copyright registration materials."
