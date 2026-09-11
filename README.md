@@ -1,6 +1,7 @@
 # 软件著作权材料撰写 Skill
 
 > 将真实软件项目整理为有证据支撑、可审核、可继续修改的中国计算机软件著作权登记材料。
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.txt)
 ![Instructions](https://img.shields.io/badge/Instructions-English-1f6feb)
 ![Default Output](https://img.shields.io/badge/Default%20Output-Simplified%20Chinese-c62828)
@@ -12,7 +13,7 @@
 
 **本 Skill 以 `SKILL.md` 和配套规则文件组织完整流程：检查项目、建立事实依据、撰写材料、同步生成 Markdown 与 DOCX，并完成内容一致性和页面视觉检查。**
 
-[设计初衷](#设计初衷) · [功能特性](#功能特性) · [安装](#安装) · [使用方法](#使用方法) · [文档规则](#文档规则) · [项目结构](#项目结构) · [预期产物](#预期产物) · [参考文件](#参考文件)
+[功能特性](#功能特性) · [安装](#安装) · [使用方法](#使用方法) · [文档规则](#文档规则) · [项目结构](#项目结构) · [预期产物](#预期产物) · [参考文件](#参考文件)
 
 ---
 
