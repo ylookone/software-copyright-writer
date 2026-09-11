@@ -1,7 +1,7 @@
 # 软件著作权材料撰写 Skill
 
 > 将真实软件项目整理为有证据支撑、可审核、可继续修改的中国计算机软件著作权登记材料。
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.txt)
 ![Instructions](https://img.shields.io/badge/Instructions-English-1f6feb)
 ![Default Output](https://img.shields.io/badge/Default%20Output-Simplified%20Chinese-c62828)
 ![Documents](https://img.shields.io/badge/Documents-Markdown%20%2B%20DOCX-8250df)
